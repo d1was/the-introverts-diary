@@ -49,8 +49,49 @@
             <!-- Experience section starts here -->
             <div class="experience h-screen font-sans">
                 <h1 class="text-5xl uppercase font-bold text-black">Experience</h1>
+                                <div class="mt-12">
+                                    It was real hard for me to break out in IT field even
+ though i was pursuing my CS degree. The College education didn't weigh much in the market, so i learned basics of web development on my own.
+ Then in <strong>2017</strong>, i joined a company named <strong>NBG IT Solution</strong>, where i did laravel and wordpress theme development. After working there for about <strong>10 months </strong>
+ i joined another start up IT company called <strong>E Works Nepal</strong> as a laravel developer. It remained as a short stay<strong>(2 months)</strong> as i had to attend my semester examinations.
+ Then after finishing my seventh semester examination in 2019, i joined <strong>Native Solutions</strong> where i'm still working as a Laravel developer.
+                 </div>
+
                 </div>
             <!-- Experience section ends here -->
+
+
+            <!-- Education section starts here -->
+            <div class="education h-screen font-sans">
+                <h1 class="text-5xl uppercase font-bold text-black">Education</h1>
+                <div class="mt-12">
+                    I've completed my bachelor degrees in computer science and information technology <Strong>(BSC. CSIT)</Strong> from Tribuhwan University. I completed my higher education from <strong>Shikshadeep College</strong>, Biratnagar.I gave my SLC from <strong> Mount Everest English secondary boarding school </strong> from my hometown Gauradaha, Jhapa.
+                </div>
+            </div>
+
+            <!-- Skills section starts here -->
+            <div class="skills h-screen font-sans">
+                <h1 class="text-5xl uppercase font-bold text-black">Skills</h1>
+                <div class="mt-12 flex flex-wrap">
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8 inline-block">PHP</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Javascript</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Laravel</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Vue JS</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">HTML</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">CSS</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">SASS</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">MySql</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Python</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Scrapy</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Slim</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Nuxt JS</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">Firebase</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">GraphQL</span>
+                    <span class="mr-8 rounded py-2 px-6 border border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white mb-8">JAVA</span>
+
+                </div>
+
+            </div>
             </div>
         </div>
     </Layout>
