@@ -6,6 +6,7 @@ date: 2020-01-01 9:03:58
 author: "diwas kc"
 tags:  
     - Thoughts
+cover: ''
 fullscreen: true
 ---    
 
