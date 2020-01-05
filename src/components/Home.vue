@@ -3,8 +3,8 @@
   <h3 class="title">Movie Diary</h3>
 
   <section class="movies">
-    <div class="columns">
-      <Movie v-for="mov in movie" :key="mov.movie_id" :id="mov.movie_id" :rating="getRating(mov.rating)" :review="mov.review" />
+    <div class="columns is-multiline">
+      <Movie v-for="mov in movie" :key="mov.movie_id" :id="mov.movie_id" :rating="getRating(mov.rating)" :review="mov.review" :date="mov.date" />
     </div>
   </section>
 </div>

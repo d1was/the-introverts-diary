@@ -31,6 +31,9 @@
         <b-field horizontal label="Review Man" >
             <b-input type="textarea" v-model="review"></b-input>
         </b-field>
+        <b-field horizontal label="Watched Date" >
+            <b-input type="date" v-model="date"></b-input>
+        </b-field>
 
         <b-field horizontal><!-- Label left empty for spacing -->
             <p class="control">
@@ -54,7 +57,8 @@ export default {
             movies: [],
             selected: null,
             myRating: '',
-            review: ''
+            review: '',
+            date: ''
         }
     },
     watch: {
@@ -83,7 +87,8 @@ export default {
             fb.moviesCollection.add({
                 movie_id: this.movies[0].id,
                 rating: this.myRating,
-                review: this.review
+                review: this.review,
+                date: this.date
             }).then( () => {
                 this.review = '',
                 this.searchQuery = '',

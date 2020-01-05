@@ -1,5 +1,5 @@
 <template>
-    <div class="column is-">
+    <div class="column is-4">
         <div class="movie-card">
             <figure class="poster">
                 <img :src="'https://image.tmdb.org/t/p/w600_and_h900_bestv2' + movie.poster_path" alt="">
@@ -10,8 +10,8 @@
                 <div class="tags">
                     <span class="imdb tag">{{ movie.vote_average }}</span>
                     <span class="tag is-primary">{{ rating }}</span>
-                <span class="tag date is-info">2019-02-12</span>
-
+                <span class="tag date is-info">{{ date }}</span>
+ 
                 <span class="tag is-danger is-small"> {{ saying }}... </span>
                 </div>
             </div>
@@ -34,7 +34,7 @@ export default {
             return arrRev.slice(0, 5).join(' ');
         }
     },
-    props: ['id', 'rating', 'review'],
+    props: ['id', 'rating', 'review', 'date'],
     mounted(){
         axios.get('https://api.themoviedb.org/3/movie/' + this.id +'?api_key=25d38efe44b241699eb994275cafff06&language=en-US')
              .then( movie => {
