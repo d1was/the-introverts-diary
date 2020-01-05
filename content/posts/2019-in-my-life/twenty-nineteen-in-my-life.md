@@ -6,7 +6,7 @@ date: 2020-01-01 9:03:58
 author: "diwas kc"
 tags:  
     - Thoughts
-cover: https://images.unsplash.com/photo-1518010741929-b44e969137d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=80    
+cover: https://lh3.googleusercontent.com/ENSdkxuWEeMH0tAunQog40RKPDZFKv1NyVXtcZwZeS6-Z7dMf3fqsBzZtlavSowKcg4IqBkuTLXjdbjLJfUCu-iIdRSi5tdTETbr-DeEdC6uslfx8i5UJV41ZEWJ7PiExAj_548f_ZEwsFmCXd0ZwDV41iog5xEPloNDnkAA1PNlS1orGpPoPCLD4JSX1joivG_geC6M0Qe5X81iA6L_bcIBjmP7eqhnjtNLlAEwkb9zN7AUd9DUfnUXSm6XXxOb1SsH6321qwVVdmZyoWWsYEb3o30q7sZKLyd5552inXVLQsgWYLCB7SmAF0OmxJH71Ba_X3SU7TLUMweTYkHjItsf9QNyn0gAiv3yD161CP_Ai7Zx9fNXOKFChMSyl5b5Dz5MfL32l82pkSk3z9BlYO5IqK9_331plPtInf8hvNG5NsObVzXQ4wppDx9LC6uZFbT10mfalgPYTJCLK8-XtNrmOewBoEnwKm2UAEwVRhMwopaMxWHLh5lgPQllDxF5b1clcRrSgbLt5BqS2kFjgZRBnx6O-GUoz0G0-R8746ZwJdL4BdCwY1YZ6hpYRIB8u6By2zwBMspUhxXJoTFl3OBAscDNgZZnZXebXttlisfFrI0gcRL0-CISnVDofB1Ao7S6fs5txLv1zP1se4ZSJsvdXiWg7ohGOUKqp0xw3KW0Wue9Re-PMObUtR-fXDE=w1366-h608-ft    
 fullscreen: true
 ---    
 
